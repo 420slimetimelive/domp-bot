@@ -1,0 +1,16 @@
+{
+  "name": "domp_bot",
+  "version": "1.0.0",
+  "description": "Funny dom p quotes!",
+  "main": "bot.js",
+  "author": "420slimetimelive",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
